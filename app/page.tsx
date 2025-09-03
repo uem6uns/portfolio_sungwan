@@ -53,7 +53,7 @@ export default function HomePage() {
       <nav className="sticky top-0 z-50 bg-background/80 backdrop-blur-sm border-b border-border">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
-            <div className="font-bold text-xl text-primary">Alex Chen</div>
+            <div className="font-bold text-xl text-primary">Sungwan Bae</div>
             <div className="hidden md:flex space-x-8">
               <Link href="#about" className="text-muted-foreground hover:text-primary transition-colors">
                 About
@@ -127,7 +127,7 @@ export default function HomePage() {
             <div className="flex justify-center">
               <img
                 src="/professional-developer-portrait.png"
-                alt="Alex Chen - Full-Stack Developer"
+                alt="Sungwan Bae - Full-Stack Developer"
                 className="rounded-lg shadow-lg max-w-sm w-full"
               />
             </div>
@@ -232,7 +232,7 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="bg-primary text-primary-foreground py-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto text-center">
-          <p className="mb-4">© 2024 Alex Chen. All rights reserved.</p>
+          <p className="mb-4">© 2024 Sungwan Bae. All rights reserved.</p>
           <div className="flex justify-center gap-6">
             <Link href="#" className="hover:text-accent transition-colors">
               GitHub

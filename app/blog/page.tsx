@@ -74,7 +74,7 @@ export default function BlogPage() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <Link href="/" className="font-bold text-xl text-primary">
-              Alex Chen
+              Sungwan Bae
             </Link>
             <div className="hidden md:flex space-x-8">
               <Link href="/#about" className="text-muted-foreground hover:text-primary transition-colors">
@@ -139,7 +139,7 @@ export default function BlogPage() {
                     </div>
                     <div className="flex items-center gap-1">
                       <User className="h-4 w-4" />
-                      Alex Chen
+                      Sungwan Bae
                     </div>
                   </div>
                   <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4 text-balance">
@@ -230,7 +230,7 @@ export default function BlogPage() {
       {/* Footer */}
       <footer className="bg-primary text-primary-foreground py-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto text-center">
-          <p className="mb-4">© 2024 Alex Chen. All rights reserved.</p>
+          <p className="mb-4">© 2024 Sungwan Bae. All rights reserved.</p>
           <div className="flex justify-center gap-6">
             <Link href="#" className="hover:text-accent transition-colors">
               GitHub
