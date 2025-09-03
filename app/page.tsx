@@ -126,7 +126,7 @@ export default function HomePage() {
             </div>
             <div className="flex justify-center">
               <img
-                src="/professional-developer-portrait.png"
+                src="/sungwan_edit.png"
                 alt="Sungwan Bae - Full-Stack Developer"
                 className="rounded-lg shadow-lg max-w-sm w-full"
               />
